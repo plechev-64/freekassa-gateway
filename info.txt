@@ -1,0 +1,8 @@
+Name: Free-Kassa Gateway;
+Parent Addon: user-balance;
+Version: 1.2.1;
+Item ID: 12390;
+Support Core: 16.24.0;
+Description: Подключение сайта к платежному агрегатору Free-Kassa http://www.free-kassa.ru/;
+Author: Плечев Андрей;
+Author URI: http://codeseller.ru/;
